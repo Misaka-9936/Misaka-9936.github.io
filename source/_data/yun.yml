@@ -1,9 +1,15 @@
 mode: auto
 
 avatar:
+  enable: true
   url: /images/avatar.jpg #你的头像图片地址
   rounded: true
   opacity: 1
+
+
+reward:
+  enable: true
+  comment: 这是一个test，请先无视它
 
 banner:
   enable: true
