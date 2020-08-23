@@ -1,8 +1,10 @@
+# ---------------
+# mode: light | dark | auto
 mode: auto
 
 avatar:
   enable: true
-  url: /images/avatar.jpg #你的头像图片地址
+  url: /images/avatar.jpg 
   rounded: true
   opacity: 1
 
@@ -22,13 +24,119 @@ notice:
     enable: true
     content: 欢迎来到我的后花园，请随意参观！
 
+# Social Links.                                                   在搭建玩以后，看看能不能添加一些其他的，自己想添加的东西
+social:
+  - name: RSS                                                     #RSS还没地方没有调试好，比如文章的标题什么的
+    # set rss in your root config
+    # https://github.com/hexojs/hexo-generator-feed
+    link: /feed/atom.xml # config.feed.path
+    icon: icon-rss-line
+    color: orange
+  # - name: QQ 群
+  #   # https://isux.tencent.com/wp-content/uploads/2016/05/20160512101222609.pdf
+  #   link: https://shang.qq.com/wpa/qunwpa?idkey=c929e704022704d8cced9ec355d44a3fa7ad34aea12cef1de03d75d3d7d5b059
+  #   icon: icon-qq-line
+  #   color: "#12B7F5"
+  - name: GitHub
+    link: https://github.com/Misaka-9936
+    icon: icon-github-line
+    color: "#6e5494"
+  # - name: 微博
+  #   link: https://weibo.com/jizhideyunyoujun
+  #   icon: icon-weibo-line
+  #   color: "#E6162D"
+  # - name: 豆瓣
+  #   link: https://www.douban.com/people/yunyoujun/
+  #   icon: icon-douban-line
+  #   color: "#007722"
+  # - name: 网易云音乐
+  #   link: https://music.163.com/#/user/home?id=247102977
+  #   icon: icon-netease-cloud-music-line
+  #   color: "#C20C0C"
+  - name: 知乎
+    link: https://www.zhihu.com/people/qian-lan-1518
+    icon: icon-zhihu-line
+    color: "#0084FF"
+  - name: 哔哩哔哩
+    link: https://space.bilibili.com/36885999
+    icon: icon-bilibili-line
+    color: "#FF8EB3"
+  # - name: POPI
+  #   link: https://www.popiask.cn/elpsycn
+  #   icon: icon-questionnaire-line
+  #   color: "#525252"
+  # - name: 微信公众号
+  #   link: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/about/white-qrcode-and-search.jpg
+  #   icon: icon-wechat-2-line
+  #   color: "#1AAD19"
+  - name: Twitter
+    link: https://twitter.com/Misaka9936
+    icon: icon-twitter-line
+    color: "#1da1f2"
+  # - name: Telegram
+  #   link: https://t.me/YunYouJun
+  #   icon: icon-telegram-line
+  #   color: "#0088CC"
+  # - name: Telegram Channel
+  #   link: https://t.me/elpsycn
+  #   # icon: icon-telegram-fill
+  #   icon: icon-telegram-line
+  #   color: "#0088CC"
+  - name: E-Mail
+    link: mailto:Misaka9936@gmail.com
+    icon: icon-mail-line
+    color: "#8E71C1"
+  # - name: Travelling
+  #   link: https://travellings.now.sh/
+  #   icon: icon-send-plane-2-line
+  #   color: black
+
+# Footer Settings
+# ---------------
+footer:
+  since: 2020
+
+  # Icon between year and copyright info.
+  icon:
+    # `heart` is recommended with animation in red (#ff0000).
+    name: icon-cloud-line
+    # If you want to animate the icon, set it to true.
+    animated: true
+    # Change the color of icon, using Hex Code.
+    color: "#0078E7"
+
+  powered:
+    # Hexo link (Powered by Hexo).
+    enable: true
+
+  # Beian icp information for Chinese users. In China, every legal website should have a beian icp in website footer.
+  # http://www.beian.miit.gov.cn
+  beian:
+    enable: true
+    icp: 学园都市ICP备10032号
+
+  live_time:
+    enable: true
+    prefix: 本博客已萌萌哒地运行
+    suffix: (*/ω＼*)
+    start_time: "2020-08-22T19:25:00"
+
+  # Any custom text can be defined here.
+  # custom_text: Hosted by <a href="https://pages.coding.me" rel="noopener" target="_blank">Coding Pages</a>
+  custom_text: 博客版本：V.0.4
+
 fireworks:      #我想要在配置的最后来调整一下烟花的颜色
   enable: true
   colors: 
     - "102,167,221"
     - "62,131,225"
     - "33,78,194"
-  
+
+#这是谷歌分析（Google Analytics）
+google_analytics:
+  enable: true
+  id: UA-176081910-1
+
 scrollreveal:
   enable: true
   targets: 
@@ -39,7 +147,8 @@ reward:
   enable: false
   comment: 这是一个test，请先无视它
 
-
+wordcloud:
+  enable: true
 
 
 

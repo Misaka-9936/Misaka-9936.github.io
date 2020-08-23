@@ -5,7 +5,7 @@
 # Site
 title: 叶子的后花园
 subtitle: '这是一个偏文的工科生'
-description: ''
+description: '@Misaka-9936'
 keywords:
 author: 叶子
 language: zh-CN
@@ -107,3 +107,19 @@ deploy:
   repo: https://github.com/Misaka-9936/Misaka-9936.github.io #此前新建仓库的链接
   branch: master #默认使用master分支
   message: Update Hexo Static Content #你可以自定义此次部署更新的说明
+
+feed:                         #还没有完成！！！
+  type: atom
+  path: atom.xml
+  limit: 10
+  hub:
+  content: true
+  content_limit: 
+  content_limit/-delim: ' '
+  order_by: -date
+  icon: icon.png
+  autodiscovery: true
+  template: /feed/atom.xml
+
+
+
