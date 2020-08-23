@@ -33,7 +33,7 @@ scrollreveal:
   enable: true
   targets: 
     - .post-card
-    -. post-content img
+    - .post-content img
 
 reward:
   enable: false
