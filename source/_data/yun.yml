@@ -6,11 +6,6 @@ avatar:
   rounded: true
   opacity: 1
 
-
-reward:
-  enable: true
-  comment: 这是一个test，请先无视它
-
 banner:
   enable: true
   title: 叶子的后花园
@@ -22,6 +17,28 @@ banner:
   go_down:
     enable: true
     icon: icon-arrow-down-s-line
+
+notice:
+    enable: true
+    content: 欢迎来到我的后花园，请随意参观！
+
+fireworks:      #我想要在配置的最后来调整一下烟花的颜色
+  enable: true
+  colors: 
+    - "102,167,221"
+    - "62,131,225"
+    - "33,78,194"
+  
+scrollreveal:
+  enable: true
+  targets: 
+    - .post-card
+    -. post-content img
+
+reward:
+  enable: false
+  comment: 这是一个test，请先无视它
+
 
 
 
