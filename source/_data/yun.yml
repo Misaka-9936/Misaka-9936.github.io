@@ -54,11 +54,11 @@ social:
   #   icon: icon-netease-cloud-music-line
   #   color: "#C20C0C"
   - name: 知乎
-    link: https://www.zhihu.com/people/qian-lan-1518
+    link: https://misaka-9936.github.io/404.html/ #https://www.zhihu.com/people/qian-lan-1518
     icon: icon-zhihu-line
     color: "#0084FF"
   - name: 哔哩哔哩
-    link: https://space.bilibili.com/36885999
+    link: https://misaka-9936.github.io/404.html/ #https://space.bilibili.com/36885999
     icon: icon-bilibili-line
     color: "#FF8EB3"
   # - name: POPI
@@ -123,7 +123,7 @@ footer:
 
   # Any custom text can be defined here.
   # custom_text: Hosted by <a href="https://pages.coding.me" rel="noopener" target="_blank">Coding Pages</a>
-  custom_text: 博客版本：V.0.4
+  custom_text: 博客版本：V.0.6.0
 
 fireworks:      #我想要在配置的最后来调整一下烟花的颜色
   enable: true

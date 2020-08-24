@@ -6,10 +6,10 @@
 title: 叶子的后花园
 subtitle: '这是一个偏文的工科生'
 description: '@Misaka-9936'
-keywords:
+keywords: 'test'
 author: 叶子
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
