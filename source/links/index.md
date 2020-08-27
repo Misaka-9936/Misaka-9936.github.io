@@ -7,14 +7,14 @@ description: 叶子的小伙伴们
 comments: true
 links: 
     - url: https://misaka-9936.github.io/
-      avatar: https://misaka-9936.github.io/images/avatar.jpg
+      avatar: https://misaka-9936.github.io/images/avatar/avatar.jpg
       name: 叶子
       blog: 叶子的后花园
       desc: all at sea
       color: "#1E90FF"
       email: misaka9936@gmail.com
     - url: https://raptazure.github.io/
-      avatar: https://misaka-9936.github.io/images/Raptazure.jpg
+      avatar: https://misaka-9936.github.io/images/avatar/Raptazure.jpg
       name: Raptazure
       blog: Raptazure
       desc: 流浪者未必迷茫
