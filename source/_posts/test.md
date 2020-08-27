@@ -1,10 +1,12 @@
 ---
 title: test
-description: this is a test
-author: 叶子
-email: duyiran1518@gmail.com
 date: 2020-08-23 15:31:32
-tags: test
+updated: 2020-08-24 16:32:00
+description: this is a test
+tags: 
+    - test
+categories:
+    - 不知道应该怎么分类就放这个地方好了
 ---
 
 balabala
