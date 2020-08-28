@@ -7,6 +7,7 @@ tags:
     - test
 categories:
     - 不知道应该怎么分类就放这个地方好了
+comment: true
 ---
 
 balabala

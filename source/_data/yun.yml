@@ -169,7 +169,7 @@ github_issues:
   filters: is:issue
 
 utterances:
-  enable: false
+  enable: true
   repo: Misaka-9936/Misaka-9936.github.io
   issue-term: pathname
   # label: comment

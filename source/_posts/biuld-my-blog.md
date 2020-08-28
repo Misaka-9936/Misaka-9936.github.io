@@ -5,6 +5,7 @@ updated:
 description: 和关于我为什么想要搭建自己的博客
 tags: 杂思
 categories: 叶子的碎碎念
+comment: true
 ---
 
 ![我的博客.png](/images/build-my-blog/my-blog.PNG)
