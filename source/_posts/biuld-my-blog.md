@@ -1,11 +1,13 @@
 ---
 title: 搭建博客
 date: 2020-08-24 16:46:48
-updated: 2020-08-27 18:52:48
+updated: 
 description: 和关于我为什么想要搭建自己的博客
 tags: 杂思
 categories: 叶子的碎碎念
 ---
+
+![我的博客.png](/images/build-my-blog/my-blog.PNG)
 
 这几天我按照云游前辈（[@YunYouJun](https://www.yunyoujun.cn/)）的教程终于搭建了自己的博客，还是蛮有成就感的。虽然我在博客的搭建和运行的过程中，仍是有许多的地方理解不了，但这个博客至少现在“五脏俱全”了。而其他的高级和自定义的功能，在以后的日子里慢慢学习、摸索也不迟。
 

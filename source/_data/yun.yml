@@ -123,7 +123,7 @@ footer:
 
   # Any custom text can be defined here.
   # custom_text: Hosted by <a href="https://pages.coding.me" rel="noopener" target="_blank">Coding Pages</a>
-  custom_text: 博客版本：V.0.6.5
+  custom_text: 博客版本：V.0.6.7
 
 fireworks:      #我想要在配置的最后来调整一下烟花的颜色
   enable: true
@@ -140,7 +140,7 @@ google_analytics:
 scrollreveal:
   enable: true
   targets: 
-    - .post-card
+    - .post-card5
     - .post-content img
 
 reward:
@@ -149,6 +149,31 @@ reward:
 
 wordcloud:
   enable: true
+
+#词数统计和阅读时间的估计
+wordcount:
+  enable: true
+  count: true
+  time: true
+
+comment:
+  enable: true
+  tips:
+    - 若您想及时得到回复提醒，建议跳转 GitHub Issues 评论。
+    - 若没有本文 Issue，您可以使用 Comment 模版新建。
+
+github_issues:
+  enable: true
+  username: misaka-9936
+  repository: misaka-9936.github.io
+  filters: is:issue
+
+utterances:
+  enable: false
+  repo: owner/repo
+  issue-term: pathname
+  # label: comment
+  theme: github-light
 
 
 
