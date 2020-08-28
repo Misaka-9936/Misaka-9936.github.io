@@ -8,7 +8,7 @@ categories: 叶子的碎碎念
 comment: true
 ---
 
-![我的博客.png](/images/build-my-blog/my-blog.PNG)
+![我的博客.png](/images/build-my-blog/my-blog.jpg)
 
 这几天我按照云游前辈（[@YunYouJun](https://www.yunyoujun.cn/)）的教程终于搭建了自己的博客，还是蛮有成就感的。虽然我在博客的搭建和运行的过程中，仍是有许多的地方理解不了，但这个博客至少现在“五脏俱全”了。而其他的高级和自定义的功能，在以后的日子里慢慢学习、摸索也不迟。
 
@@ -20,7 +20,7 @@ comment: true
 
 后来因为疫情的缘故，大家都呆在家里。我在家里也没白闲着，就翻出了好多以前想看却又没机会看的电影，一部部地看。
 
-![影碟扫光.jpg](/images/build-my-blog/watched-disc.jpeg)
+![影碟扫光.jpg](/images/build-my-blog/watched-disc.jpg)
 
 也是因为一个偶然，我右键点播放器以后，弹出“Dplayer”和“关于作者”几个选项。我就好奇地点第一个，发现是[GitHub的界面](https://github.com/MoePlayer/DPlayer)，一看是一个开源项目，便更加的好奇作者是一个什么样的人。于是再返回点击“关于作者”，本以为会到作者的微博什么的，没想到居然跳转到了他的博客（[Hi,DIYgod](https://diygod.me)）。当时也被震惊到了，我第一次发现原来博客还可以这样写（和布置界面），这样来向来到这里的人展现作者的生活和风格。我那天几乎看完他所有的博文，不管看得懂还是看不懂。他做的很多小项目也很有意思，比如“女朋友的微博情绪监控”、“野生DIYgod捕获指南”和“我藏好了哦”这些我真的好羡慕他，那么有趣，又厉害，又有风格。（对了，我的RSS也是他最开始带我了解的）
 
