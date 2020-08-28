@@ -170,7 +170,7 @@ github_issues:
 
 utterances:
   enable: false
-  repo: owner/repo
+  repo: Misaka-9936/Misaka-9936.github.io
   issue-term: pathname
   # label: comment
   theme: github-light
