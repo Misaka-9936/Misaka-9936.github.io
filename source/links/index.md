@@ -20,6 +20,13 @@ links:
       desc: 流浪者未必迷茫
       color: "#00BFFF"
       email: hermit0x9@outlook.com
+    - url: https://nek0ri.de/
+      avatar: https://misaka-9936.github.io/images/nek0ri.jpg
+      name: nek0ri
+      blog: 猫梨の部屋
+      desc: 
+      color: "#DB7093"
+      email: 
     # - url: 
     #   avatar: https://misaka-9936.github.io/images/.jpg
     #   name: 
