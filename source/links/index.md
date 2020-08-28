@@ -5,6 +5,7 @@ date: 2020-08-24 10:14:06
 keywords: 链接
 description: 叶子的小伙伴们
 comments: true
+comment: true
 links: 
     - url: https://misaka-9936.github.io/
       avatar: https://misaka-9936.github.io/images/avatar/avatar.jpg
@@ -26,6 +27,13 @@ links:
       blog: 猫梨の部屋
       desc: 
       color: "#DB7093"
+      email: 
+    - url: https://cwksc.github.io/
+      avatar: https://misaka-9936.github.io/images/avatar/CWKSC.JPG
+      name: CWKSC
+      blog: CWKSC's Blog
+      desc: 技术文大佬喔(´・×・｀) 
+      color: "#000000"
       email: 
     # - url: 
     #   avatar: https://misaka-9936.github.io/images/avatar/.jpg
