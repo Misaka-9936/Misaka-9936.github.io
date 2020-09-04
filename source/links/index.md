@@ -34,7 +34,28 @@ links:
       blog: CWKSC's Blog
       desc: 技术文大佬喔(´・×・｀) 
       color: "#000000"
+      email:
+    - url: https://alendia.github.io/
+      avatar: https://misaka-9936.github.io/images/avatar/Alendia.jpg
+      name: Alendia
+      blog: Alendia's Blog
+      desc: 
+      color: "#DDA0DD"
       email: 
+    - url: https://miroox.github.io/blog/
+      avatar: https://misaka-9936.github.io/images/avatar/miRoox.jpg
+      name: miRoox
+      blog: miRoox的博客
+      desc: 
+      color: "#F0F8FF"
+      email:
+    - url: http://www.lemonhx.tech/#/
+      avatar: https://misaka-9936.github.io/images/avatar/lemonhx.png
+      name: LemonHX
+      blog: 柠檬🍋博客
+      desc: 
+      color: "#FFFF00"
+      email:
     # - url: 
     #   avatar: https://misaka-9936.github.io/images/avatar/.jpg
     #   name: 
