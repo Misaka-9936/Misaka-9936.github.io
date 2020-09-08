@@ -163,14 +163,14 @@ utterances:
   # label: comment
   theme: github-light
 
-busuanzi:
-  enable: true
-  site_uv: false
-  site_uv_icon: icon-user-line
-  site_pv: true
-  site_pv_icon: icon-eye-line
-  page_pv: true
-  page_pv_icon: icon-eye-line
+#busuanzi:
+#  enable: true
+#  site_uv: false
+#  site_uv_icon: icon-user-line
+#  site_pv: true
+#  site_pv_icon: icon-eye-line
+#  page_pv: true
+#  page_pv_icon: icon-eye-line
 
 
 
