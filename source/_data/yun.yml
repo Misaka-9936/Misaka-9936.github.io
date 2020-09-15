@@ -41,55 +41,14 @@ social:
     link: https://github.com/Misaka-9936
     icon: icon-github-line
     color: "#6e5494"
-  # - name: 微博
-  #   link: https://weibo.com/jizhideyunyoujun
-  #   icon: icon-weibo-line
-  #   color: "#E6162D"
-  # - name: 豆瓣
-  #   link: https://www.douban.com/people/yunyoujun/
-  #   icon: icon-douban-line
-  #   color: "#007722"
-  # - name: 网易云音乐
-  #   link: https://music.163.com/#/user/home?id=247102977
-  #   icon: icon-netease-cloud-music-line
-  #   color: "#C20C0C"
-  # - name: 知乎
-  #   link: https://misaka-9936.github.io/404.html/ #https://www.zhihu.com/people/qian-lan-1518
-  #   icon: icon-zhihu-line
-  #   color: "#0084FF"
-  # - name: 哔哩哔哩
-  #   link: https://misaka-9936.github.io/404.html/ #https://space.bilibili.com/36885999
-  #   icon: icon-bilibili-line
-  #   color: "#FF8EB3"
-  # - name: POPI
-  #   link: https://www.popiask.cn/elpsycn
-  #   icon: icon-questionnaire-line
-  #   color: "#525252"
-  # - name: 微信公众号
-  #   link: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/about/white-qrcode-and-search.jpg
-  #   icon: icon-wechat-2-line
-  #   color: "#1AAD19"
   - name: Twitter
     link: https://twitter.com/Misaka9936
     icon: icon-twitter-line
     color: "#1da1f2"
-  # - name: Telegram
-  #   link: https://t.me/YunYouJun
-  #   icon: icon-telegram-line
-  #   color: "#0088CC"
-  # - name: Telegram Channel
-  #   link: https://t.me/elpsycn
-  #   # icon: icon-telegram-fill
-  #   icon: icon-telegram-line
-  #   color: "#0088CC"
   - name: E-Mail
     link: mailto:Misaka9936@gmail.com
     icon: icon-mail-line
     color: "#8E71C1"
-  # - name: Travelling
-  #   link: https://travellings.now.sh/
-  #   icon: icon-send-plane-2-line
-  #   color: black
 
 # Footer Settings
 # ---------------
@@ -123,7 +82,7 @@ footer:
 
   # Any custom text can be defined here.
   # custom_text: Hosted by <a href="https://pages.coding.me" rel="noopener" target="_blank">Coding Pages</a>
-  custom_text: 博客版本：V.0.8.51
+  custom_text: 博客版本：V.0.8.52
 
 fireworks:      #我想要在配置的最后来调整一下烟花的颜色
   enable: true
