@@ -26,12 +26,12 @@ notice:
 
 # Social Links.                                                   在搭建玩以后，看看能不能添加一些其他的，自己想添加的东西
 social:
-  - name: RSS                                                     #RSS还没地方没有调试好，比如文章的标题什么的
-    # set rss in your root config
-    # https://github.com/hexojs/hexo-generator-feed
-    link: /feed/atom.xml # config.feed.path
-    icon: icon-rss-line
-    color: orange
+  # - name: RSS                                                     #RSS还没地方没有调试好，比如文章的标题什么的
+  #   # set rss in your root config
+  #   # https://github.com/hexojs/hexo-generator-feed
+  #   link: /feed/atom.xml # config.feed.path
+  #   icon: icon-rss-line
+  #   color: orange
   # - name: QQ 群
   #   # https://isux.tencent.com/wp-content/uploads/2016/05/20160512101222609.pdf
   #   link: https://shang.qq.com/wpa/qunwpa?idkey=c929e704022704d8cced9ec355d44a3fa7ad34aea12cef1de03d75d3d7d5b059
