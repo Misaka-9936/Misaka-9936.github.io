@@ -82,7 +82,7 @@ footer:
 
   # Any custom text can be defined here.
   # custom_text: Hosted by <a href="https://pages.coding.me" rel="noopener" target="_blank">Coding Pages</a>
-  custom_text: 博客版本：V.0.8.6
+  custom_text: 博客版本：V.0.9.0
 
 fireworks:      #我想要在配置的最后来调整一下烟花的颜色
   enable: true
