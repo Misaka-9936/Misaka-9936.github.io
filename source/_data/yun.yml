@@ -24,7 +24,7 @@ notice:
     enable: true
     content: 欢迎来到我的后花园，请随意参观！
 
-# Social Links.                                                   在搭建玩以后，看看能不能添加一些其他的，自己想添加的东西
+# Social Links.                                                   在搭建完以后，看看能不能添加一些其他的，自己想添加的东西
 social:
   # - name: RSS                                                     #RSS还没地方没有调试好，比如文章的标题什么的
   #   # set rss in your root config
@@ -82,7 +82,7 @@ footer:
 
   # Any custom text can be defined here.
   # custom_text: Hosted by <a href="https://pages.coding.me" rel="noopener" target="_blank">Coding Pages</a>
-  custom_text: 博客版本：V.0.9.0
+  custom_text: 博客版本：V.0.9.1
 
 fireworks:      #我想要在配置的最后来调整一下烟花的颜色
   enable: true
